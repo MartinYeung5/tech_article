@@ -1,4 +1,4 @@
-**W3C Agent Identity Standards: A Cryptographic Deep Dive**  
+# **W3C Agent Identity Standards: A Cryptographic Deep Dive**  
 
 > *Author’s Note: This article provides a systematic analysis of the W3C Agent Identity standard system from the perspective of a cryptography and information security specialist. It is based on publicly available standard documents and draft specifications as of July 2026, and aims to serve as an in-depth reference for the professional technical community.*
 
